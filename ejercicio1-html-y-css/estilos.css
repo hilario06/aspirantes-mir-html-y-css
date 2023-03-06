@@ -1,0 +1,18 @@
+body{
+  background-color: #F3F1FE;
+}
+body > section{
+  display: flex;
+  justify-content: center;
+}
+.container{
+  /*max-width: 1024px;*/
+}
+.container h1{
+  color: #C8A2C8;
+  font-size: 28px;
+}
+.container img{
+  width: 350px;
+  object-fit: contain;
+}
